@@ -4,7 +4,8 @@ version = "1.0.0"
 authors = ["Kiran"]
 
 [addresses]
-
+lending_protocol = "0xcafe"
+# std="0x1"
 [dev-addresses]
 
 [dependencies.AptosFramework]
